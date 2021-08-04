@@ -1,7 +1,5 @@
 ## 👋 Hello world! I'm Francesca
 
-![Profile visits](https://badgen.net/badge/Made%20in/Italy/pink?icon=:girl)
-
 - 🏢 I'm currently working as a **UI Software Engineer** at **[ViacomCBS](https://viacbs.com)**
 - 👉 My goal is to build clean and reusable UI, while producing readable, scalable and maintainable code.
 - ⏳ I spend most of my time working with **React.js**, **CSS-in-JS**, **Jest and Enzyme**, **Storybook**, **Accessibility tools**
