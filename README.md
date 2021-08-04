@@ -17,8 +17,6 @@
 - 🗻 pretending to be a professional hiker
 - ⛵ pretending to be a captain
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-francesca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Keep in touch
 [LinkedIn](https://www.linkedin.com/in/francesca-giannino-293ba819/)
 Drop me a line @ francesca.giannino86@gmail.com
