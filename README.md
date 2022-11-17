@@ -1,6 +1,6 @@
 ## 👋 Hello world! I'm Francesca
 
-- 🏢 I'm currently working as a **UI Software Engineer** at **[ViacomCBS](https://viacbs.com)**
+- 🏢 I'm currently working as a **UI Software Engineer** at **[Credimi](https://credimi.com)**
 - 👉 My goal is to build clean and reusable UI, while producing readable, scalable and maintainable code.
 - ⏳ I spend most of my time working with **React.js**, **CSS-in-JS**, **Jest and Enzyme**, **Storybook**, **Accessibility tools**
 - 🔭 I'm willing to dig more into **Next.js**, **GraphQL**, **Apollo**
